@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69922098023",
+    "project_id": "connoisseur-16df3",
+    "storage_bucket": "connoisseur-16df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69922098023:android:2af0733d7c8cee77803dc2",
+        "android_client_info": {
+          "package_name": "com.example.connoisseur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69922098023-khg4rjo9li3fjs25kitf2ufum46oc4sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJTmbhd7rDG55-ce3TU5pVgwctWSnM6Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69922098023-khg4rjo9li3fjs25kitf2ufum46oc4sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
